@@ -30,12 +30,14 @@ export default defineConfig({
         text: 'Wordpress',
         items: [
           { text: '简单介绍', link: '/wordpress/index' },
+          { text: '安全措施', link : '/wordpress/security'}
         ]
       },
       {
         text: 'Alist',
         items: [
           { text: '简单介绍', link: '/alist/index' },
+          { text: '相关信息', link: '/alist/info'}
         ]
       },
       {
